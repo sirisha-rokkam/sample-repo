@@ -1,5 +1,6 @@
 # sample-repo create a website
 sample repo
+# example
 <!DOCTYPE html>
 <html lang="en">
 <head>
