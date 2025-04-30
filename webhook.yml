@@ -1,0 +1,2 @@
+- name: Trigger GitLab CI through webhooks
+  uses: eic/trigger-gitlab-ci@v3.2
